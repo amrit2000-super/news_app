@@ -23,7 +23,7 @@ class News with ChangeNotifier {
   Future<void> getNews([String category = '']) async {
     datatobeput = [];
     final url = Uri.parse(
-        'https://newsapi.org/v2/top-headlines?sources=google-news-in&country=in&category=$category&apiKey=ccba7962fcd44b5883deb51d413ff77e');
+        'https://newsapi.org/v2/top-headlines?category=$category&country=in&apiKey=ccba7962fcd44b5883deb51d413ff77e');
     final response = await http.get(url);
     final extractedData = json.decode(response.body) as Map<String, dynamic>;
     print(extractedData);
