@@ -1,16 +1,17 @@
-# news_app
+This is the starting point of the application
 
-A new Flutter project.
+![img1](https://user-images.githubusercontent.com/84428101/217605906-1663a8a3-f63d-4a74-8655-b6cd10739630.jpg)
 
-## Getting Started
+Upon selecting each category, news of each category gets filtered out
 
-This project is a starting point for a Flutter application.
+![img2](https://user-images.githubusercontent.com/84428101/217606052-45edd0d4-ab4d-4241-bef8-6c825ed6f843.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![img3](https://user-images.githubusercontent.com/84428101/217606187-f4dd4719-08e9-4efd-828a-0568d67fabb2.jpg)
+
+
+Upon selecting on the news we get 
+
+![img4](https://user-images.githubusercontent.com/84428101/217606270-6eee691e-e3b1-4207-863a-508fa748b666.jpg)
